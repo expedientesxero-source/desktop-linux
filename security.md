@@ -1,4 +1,4 @@
-### Reporting a Vulnerability
+https://github.com/docker/desktop-linux/issues/new/choose### Reporting a Vulnerability
 
 Please **DO NOT** file a public issue, instead send your report privately to security@docker.com.
 
